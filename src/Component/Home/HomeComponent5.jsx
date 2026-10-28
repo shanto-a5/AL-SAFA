@@ -48,8 +48,7 @@ const HomeComponent5 = () => {
         </h2>
         
         <p className="text-[#2d5a27] text-sm md:text-base lg:text-lg leading-relaxed mb-6 md:mb-8 font-poppins">
-          Find your nearby Hajj & Umrah agency associated with Hijaz Hajj 
-          Umrah Ltd. Bangladesh. Identify the trusted Umrah agents in 
+          Find your nearby Hajj & Umrah agency associated with al safa international Bangladesh. Identify the trusted Umrah agents in 
           your area and get in touch with them to facilitate your next holy 
           journey to Makkah and Madina.
         </p>
